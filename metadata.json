@@ -1,0 +1,6 @@
+{
+  "name": "Smart Factory Collaborative Workspace",
+  "description": "Real-time IoT asset tracking, safety risk scoring, and cross-functional maintenance scheduling for smart manufacturing floors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
